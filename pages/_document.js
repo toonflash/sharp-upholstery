@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <body>
+      <body styles="letter-spacing: 1px;">
         <Main />
         <NextScript />
       </body>
