@@ -4,7 +4,7 @@
   justify-content: space-between;
   position: relative;
   width: 100vw;
-  height: 100vh;
+  height: 100dvh;
   padding: 10px 20px 20px;
   background-color: rgba(0, 0, 0, 0.5);
   background-blend-mode: overlay;
